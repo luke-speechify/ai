@@ -1,5 +1,12 @@
 # ai
 
+## 7.0.32
+
+### Patch Changes
+
+- e35bcae: Allow UI message chunks to include fields added by newer server versions.
+- a4eb3f3: Propagate abort reasons when generation is cancelled during tool execution.
+
 ## 7.0.31
 
 ### Patch Changes
